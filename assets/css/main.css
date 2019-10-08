@@ -5601,6 +5601,8 @@
 
 	.spotlight .image {
 		background-color: rgba(0, 0, 0, 0.125);
+		/* height: 400px; */
+		/* width: 200px; */
 	}
 
 	.spotlight.invert .image {
